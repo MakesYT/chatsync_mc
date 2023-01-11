@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chatsync">
+    <output-path>$PROJECT_DIR$/out/artifacts/chatsync</output-path>
+    <root id="archive" name="chatsync.jar">
+      <element id="module-output" name="client" />
+      <element id="extracted-dir" path="E:/maven3/re/com/alibaba/fastjson2/fastjson2-extension/2.0.22/fastjson2-extension-2.0.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven3/re/com/alibaba/fastjson2/fastjson2/2.0.22/fastjson2-2.0.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/maven3/re/com/alibaba/fastjson/2.0.22/fastjson-2.0.22.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
